@@ -1,2 +1,2 @@
 # env-guard
-Secure, Validate, Sync – Revolutionize how you manage environment variables
+Secure, Validate, Sync and Revolutionize how you manage environment variables
